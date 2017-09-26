@@ -1,0 +1,15 @@
+{
+    "name": "ubuntu-touch-qtwidgets-calculator-demo.sverzegnassi",
+    "description": "The example shows how to use signals and slots to implement the functionality of a calculator widget, and how to use QGridLayout to place child widgets in a grid.",
+    "architecture": "@CLICK_ARCH@",
+    "title": "QtWidget5 Calculator demo",
+    "hooks": {
+        "ubuntu-touch-qtwidgets-calculator-demo": {
+            "apparmor": "ubuntu-touch-qtwidgets-calculator-demo/ubuntu-touch-qtwidgets-calculator-demo.apparmor",
+            "desktop": "ubuntu-touch-qtwidgets-calculator-demo/ubuntu-touch-qtwidgets-calculator-demo.desktop"
+        }
+    },
+    "version": "0.1",
+    "maintainer": "Stefano Verzegnassi <verzegnassi.stefano@gmail.com>",
+    "framework": "ubuntu-sdk-15.04.6"
+}

@@ -1,0 +1,7 @@
+[Desktop Entry]
+_Name=ubuntu-touch-qtwidgets-calculator-demo
+Exec=ubuntu-touch-qtwidgets-calculator-demo
+Icon=ubuntu-touch-qtwidgets-calculator-demo/ubuntu-touch-qtwidgets-calculator-demo.png
+Terminal=false
+Type=Application
+X-Ubuntu-Touch=true
